@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Amith G and Soumya M S//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amith G and Soumya M S - Wedding
+BEGIN:VEVENT
+UID:reception-20261125@amith-weds-soumya
+DTSTAMP:20261010T180908Z
+DTSTART:20261125T133000Z
+SUMMARY:Reception - Amith G and Soumya M S's wedding
+LOCATION:Gayatri Kalyana Mantapa\, Gayatri Circle\, Chitradurga - 577501
+DESCRIPTION:Reception for the wedding of Amith G and Soumya M S.\nWednesday\, 25th November 2026\, 7:00 PM IST onwards.\nVenue: Gayatri Kalyana Mantapa\, Gayatri Circle\, Chitradurga - 577501.\nDirections: https://www.google.com/maps/search/?api=1&query=Gayatri+Kalyana+Mantapa+Chitradurga
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:muhurtham-20261126@amith-weds-soumya
+DTSTAMP:20261010T180908Z
+DTSTART:20261126T023000Z
+DTEND:20261126T033000Z
+SUMMARY:Muhurtham - Amith G and Soumya M S's wedding
+LOCATION:Gayatri Kalyana Mantapa\, Gayatri Circle\, Chitradurga - 577501
+DESCRIPTION:Muhurtham for the wedding of Amith G and Soumya M S.\nThursday\, 26th November 2026\, 8:00 AM - 9:00 AM IST.\nVenue: Gayatri Kalyana Mantapa\, Gayatri Circle\, Chitradurga - 577501.\nDirections: https://www.google.com/maps/search/?api=1&query=Gayatri+Kalyana+Mantapa+Chitradurga
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
