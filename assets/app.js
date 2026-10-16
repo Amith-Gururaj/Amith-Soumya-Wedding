@@ -172,9 +172,8 @@
     setMusicOff(!on);
     if (on) playMusic(); else pauseMusic();
   });
-  // The music rests while the guest is in another app or tab, or on the card page, and carries on when
-  // they come back. Back restores this page as it was, so the on/off choice is read again: the guest may
-  // have changed it on the card page.
+  // The music rests while the page is hidden and carries on when the guest returns. Back restores this
+  // page as it was, so the on/off choice is read again in case it changed while the page was away.
   var pausedByHide = false;
   function onPageHide() {
     if (isPlaying() && !audio.paused) {
